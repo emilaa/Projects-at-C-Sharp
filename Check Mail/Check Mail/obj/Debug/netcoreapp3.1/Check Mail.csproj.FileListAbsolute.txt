@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\bin\Debug\netcoreapp3.1\Check Mail.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\bin\Debug\netcoreapp3.1\Check Mail.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\bin\Debug\netcoreapp3.1\Check Mail.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\bin\Debug\netcoreapp3.1\Check Mail.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\bin\Debug\netcoreapp3.1\Check Mail.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\bin\Debug\netcoreapp3.1\Check Mail.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Task\Check Mail\Check Mail\obj\Debug\netcoreapp3.1\Check Mail.genruntimeconfig.cache
